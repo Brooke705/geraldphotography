@@ -1,0 +1,38 @@
+*{
+    margin: 1em;
+    
+    
+}
+
+body{
+    border: solid;
+    height: 100%;
+}
+
+.nav{
+    display:flex;
+    border: solid;
+
+}
+
+#p-largetext{
+    font-size: xx-large;
+    border: solid;
+}
+
+.hero{
+    border: solid;
+    height:600px;
+    display: flex;
+
+}
+
+h1{
+    text-align:justify;
+}
+
+.features{
+    border:solid;
+    height: 300px;
+    display: flex;
+}
